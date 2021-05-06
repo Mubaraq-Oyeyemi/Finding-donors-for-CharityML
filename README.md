@@ -5,4 +5,4 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 With nearly 15 million working Californians, I have been appointed by CharityML to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. The goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
-The HTML file contains the code and result of the code while Notebook file contains mainly the code.
+The HTML file contains the code and visuals while Notebook file contains mainly the code.
